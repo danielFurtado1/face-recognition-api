@@ -1,1 +1,1 @@
-# face-recognition-api
+SmartBrain Api from Zero to Mastery
